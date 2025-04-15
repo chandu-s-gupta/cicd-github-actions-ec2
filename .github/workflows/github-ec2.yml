@@ -1,6 +1,7 @@
 name: Push-to-EC2 instance
 
 # Trigger deployment only on push to main branch 
+#adding comment to trigger workflow
 on:
   push:
     branches:
