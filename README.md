@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Just deployed react site on ec2 instance with linux AMI, configured inbound rules with http,https port. Nothing mentioned below was used by me
+Just deployed react site on ec2 instance with linux AMI, configured inbound rules with http,https port and also added github repo secrets like ssh-key,host dns,etc 
+YT video ref - https://www.youtube.com/watch?v=-t9XF9CZD5U&t=150s
+Nothing mentioned below was used by me
+
 
 ## Available Scripts
 
